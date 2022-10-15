@@ -6,4 +6,4 @@
 - Use MatLab Software to build the neural network.
 - Calculating UMA Effectiveness
 
-![](https://github.com/astoadhi/Portfolio/blob/main/images/image.png)
+![](/images/image.png)
