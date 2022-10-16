@@ -8,7 +8,7 @@
 
 ![](/images/image.png)
 
-# [Project 2 : THE IMPACT OF DIGITALIZATION ON FINANCIAL SYSTEM’S EFFICIENCY AND STABILITY IN INDONESIA](https://github.com/astoadhi/Impact-Digitalization-on-financial-system-on-efficiency-and-stabilzation-in-Indonesia)
+# [Project 2 : The Impact of Digitalization on Financial System's Efficiency and Stability in Indonesia](https://github.com/astoadhi/Impact-Digitalization-on-financial-system-on-efficiency-and-stabilzation-in-Indonesia)
 
 This project between some master student and lecturer from SBM-ITB with Central Bank of Indonesia, Analyzing the effect of digital payment on payment system efficiency and macroeconomic stability towards financial system stability.
 
