@@ -17,5 +17,3 @@ This study has two aims:
 - to evaluate the effect of digital payment on macroeconomic stability
 
 - to investigate the implication of digital payment on the payment system efficiency.
-
-In the model examination, we use electronic money transaction as the proxy for the digitalization. Meanwhile for the first objective, the macroeconomic indicators namely inflation and exchange rate volatility are used as the proxy. Inflation represent the internal stability while the exchange rate volatility represent the external stability. For the second objective, we use ticket sizing of digital payment and private consumption as the proxy for payment system efficiency.
