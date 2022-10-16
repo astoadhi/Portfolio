@@ -10,10 +10,12 @@
 
 # [Project 2 : The Impact of Digitalization on Financial System's Efficiency and Stability in Indonesia](https://github.com/astoadhi/Impact-Digitalization-on-financial-system-on-efficiency-and-stabilzation-in-Indonesia)
 
-This project between some master student and lecturer from SBM-ITB with Central Bank of Indonesia, Analyzing the effect of digital payment on payment system efficiency and macroeconomic stability towards financial system stability.
-
-This study has two aims:
-
-- to evaluate the effect of digital payment on macroeconomic stability
-
-- to investigate the implication of digital payment on the payment system efficiency.
+- This project between some master student and lecturer from SBM-ITB with Central Bank of Indonesia.
+- Evaluate the effect of digital payment on macroeconomic stability
+- Investigate the implication of digital payment on the payment system efficiency.
+- Use electronic money transaction as the proxy for the digitalization. 
+- For the first objective, the macroeconomic indicators namely inflation and exchange rate volatility are used as the proxy. Inflation represent the internal stability while the exchange rate volatility represent the external stability.
+- For the second objective, using ticket sizing of digital payment and private consumption as the proxy for payment system efficiency.
+- To calibrate the relationship between digital payment on macroeconomic stability as well as on the payment efficiency auto regressive distributed lag (ARDL) model of Pesaran (2001) is performed.
+- Use STATA software to model the ARDL
+![](/images/Electronic%20Transaction.PNG)
