@@ -19,3 +19,9 @@
 - To calibrate the relationship between digital payment on macroeconomic stability as well as on the payment efficiency auto regressive distributed lag (ARDL) model of Pesaran (2001) is performed.
 - Use STATA software to model the ARDL
 ![](/images/ElectronicTransaction.PNG)
+
+# Fun Analysis : New Ownership? New Era for Newcastle United? Performance Analysis Newcastle United in English Premier League 2021/2022
+
+
+
+
