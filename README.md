@@ -18,4 +18,4 @@
 - For the second objective, using ticket sizing of digital payment and private consumption as the proxy for payment system efficiency.
 - To calibrate the relationship between digital payment on macroeconomic stability as well as on the payment efficiency auto regressive distributed lag (ARDL) model of Pesaran (2001) is performed.
 - Use STATA software to model the ARDL
-![](/images/Electronic%20Transaction.PNG)
+![](/images/ElectronicTransaction.PNG)
