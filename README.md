@@ -20,7 +20,7 @@
 - Use STATA software to model the ARDL
 ![](/images/ElectronicTransaction.PNG)
 
-# Fun Analysis : New Ownership? New Era for Newcastle United? Performance Analysis Newcastle United in English Premier League 2021/2022
+
 
 
 
