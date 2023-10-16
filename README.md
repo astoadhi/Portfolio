@@ -11,7 +11,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 ## Contents
 
 - ### Machine Learning
-- [Customer Churn Prediction using Machine Learning](https://github.com/astoadhi/Customer-Churn-Prediction-using-Machine-Learning): Testing out two supervised machine learning to predict customer churn (Logistic Regression and Random Forest)
+  - [Customer Churn Prediction using Machine Learning](https://github.com/astoadhi/Customer-Churn-Prediction-using-Machine-Learning): Testing out two supervised machine learning to predict customer churn (Logistic Regression and Random Forest)
 
 - ### Data Analysis and Visualisation
   - [Performance Analysis Newcastle United in English Premier League 2021-2022](https://github.com/astoadhi/Performance-Analysis-Newcastle-United-in-English-Premier-League-2021-2022): Performance analysis for Newcastle United in Premier League 2021-2022.
