@@ -14,4 +14,4 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 
 - ### Data Analysis and Visualisation
-  - [Performance Analysis Newcastle United in English Premier League 2021-2022] (https://github.com/astoadhi/Performance-Analysis-Newcastle-United-in-English-Premier-League-2021-2022): Performance analysis for Newcastle United in Premier League 2021-2022.
+  - [Performance Analysis Newcastle United in English Premier League 2021-2022](https://github.com/astoadhi/Performance-Analysis-Newcastle-United-in-English-Premier-League-2021-2022): Performance analysis for Newcastle United in Premier League 2021-2022.
