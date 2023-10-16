@@ -7,3 +7,11 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 ## Instructions for Running Python Notebooks Locally
 1. Install dependencies using the right packages.
 2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
+
+## Contents
+
+- ### Machine Learning
+
+
+- ### Data Analysis and Visualisation
+  -[Performance Analysis Newcastle United in English Premier League 2021-2022] (www.github.com/astoadhi/Performance-Analysis-Newcastle-United-in-English-Premier-League-2021-2022) : Performance analysis for Newcastle United in Premier League 2021-2022.
