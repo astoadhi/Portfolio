@@ -10,9 +10,6 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Contents
 
-- ### Machine Learning
-  - [Customer Churn Prediction using Machine Learning](https://github.com/astoadhi/Customer-Churn-Prediction-using-Machine-Learning): Testing out two supervised machine learning to predict customer churn (Logistic Regression and Random Forest)
-
 - ### Data Analysis and Visualisation
   - [Performance Analysis Newcastle United in English Premier League 2021-2022](https://github.com/astoadhi/Performance-Analysis-Newcastle-United-in-English-Premier-League-2021-2022): Performance analysis for Newcastle United in Premier League 2021-2022.
   - [Visualize Your Way to Better Sleep: Analyses to Improve Your Quality of Rest](https://medium.com/@asto.adhinugroho/visualize-your-way-to-better-sleep-analysis-to-improve-your-quality-of-rest-sekolah-data-6c9667e39647): Visualization about Sleep Disorder and Quality of Sleep
